@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/3d2019/tafe_2019/dip/shader_alagator1/shader_alagator/Assets/Scenes/1.unity
+  isLoaded: 1
+  isActive: 1
